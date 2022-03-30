@@ -1,4 +1,6 @@
-Hi I'am Adrien I am currently a student at 42 Paris.
+Hi I'm a <a href='https://42.fr/en/homepage/' title='42Paris'><img src="42.svg" height=20> Paris</a> alumni.
+
+
 <p align="center"/>
 Here are the technologies I have worked with :
 </p>
