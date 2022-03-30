@@ -2,7 +2,7 @@ Hi I'am Adrien I am currently a student at 42 Paris.
 <p align="center"/>
 Here are the technologies I have worked with :
 </p>
- <p>
+ <p align="center">
   <a target="_blank" href='https://ubuntu.com/desktop/developers'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title='Ubuntu' width=50/></a>
   <a target="_blank" href='https://git-scm.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title='Git' width=50/></a>
   <a target="_blank" href='https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title='C' width=50/></a>
