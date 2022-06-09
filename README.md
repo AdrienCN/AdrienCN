@@ -19,4 +19,6 @@
   <a target="_blank" href='https://www.postgresql.org/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title='PostgreSQL' width=50/></a>
   <a target="_blank" href='http://nginx.org/en/docs/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width=50/></a>
   <a target="_blank" href='https://www.docker.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title='Docker' width=50/></a>
+   <a target="_blank" href='https://www.pyhton.org'><img src=" https://www.python.org/static/community_logos/python-logo-generic.svg
+" title='Python' width=50/></a>
 </p>
